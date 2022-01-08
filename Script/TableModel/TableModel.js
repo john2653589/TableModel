@@ -174,12 +174,3 @@ class TableModel {
         //return UpperRet;
     }
 }
-
-/**
- *
- *  Important Update Record :
- *
- *  2021/12/02 Update by Rugal
- *  Updated the process of Update 'InitOption()'
- *
- * */
