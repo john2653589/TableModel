@@ -479,7 +479,5 @@ class TableModel {
         }
         return SendUrl;
     }
-
-
     // #endregion
 }
